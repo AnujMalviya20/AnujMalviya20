@@ -11,7 +11,7 @@ learning, building, evolving ▹
 
 ---
 
-## ⊹ About Me
+## # About Me
 
 ⌘ AI/ML Explorer  
 ◈ Data Science Enthusiast  
