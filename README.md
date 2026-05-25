@@ -1,7 +1,7 @@
 <h1 align="center">⊹ yō, I'm Anuj ⊹</h1>
 
 <h3 align="center">
-learning, building, evolving ⚡
+learning, building, evolving ▹
 </h3>
 
 <p align="center">
