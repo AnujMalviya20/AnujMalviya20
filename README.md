@@ -1,5 +1,5 @@
-<h1 align="center"> yō, </h1>
-  I'm Anuj </h2>
+<h1 align="center"> yō, 
+  I'm Anuj </h1>
 
 <h3 align="center">
 learning, building, evolving ▹
