@@ -1,23 +1,19 @@
 <h1 align="center">⊹ yō, I'm Anuj ⊹</h1>
 
 <h3 align="center">
-AI/ML Developer • Backend Builder • Data Science Explorer
+learning, building, evolving ⚡
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Machine+Learning+Developer;Backend+Development;Always+Learning+⚡" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnujMalviya20&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=58A6FF&center=true&vCenter=true&width=700&lines=turning+ideas+into+reality;exploring+tech+creatively;building+cool+things+⚡;learning+something+new+everyday" />
 </p>
 
 ---
 
 ## ⊹ About Me
 
-⌘ AI/ML Developer  
-◈ Data Science Explorer  
+⌘ AI/ML Explorer  
+◈ Data Science Enthusiast  
 ⌬ Backend Development  
 ▣ Building Real-World Projects  
 ✦ Hackathon Participant  
@@ -41,7 +37,7 @@ AI/ML Developer • Backend Builder • Data Science Explorer
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,aws,azure,firebase,mysql,docker,git,github,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,aws,azure,firebase,mysql,docker,git,github,pytorch,vscode,linux"/>
 
 </p>
 
@@ -86,5 +82,5 @@ AI/ML Developer • Backend Builder • Data Science Explorer
 ---
 
 <p align="center">
-⌘ building • learning • evolving ⌘
+⌘ code • create • evolve ⌘
 </p>
